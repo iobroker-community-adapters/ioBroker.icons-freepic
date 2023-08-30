@@ -1,0 +1,71 @@
+{
+  "common": {
+    "name": "icons-freepic",
+    "version": "0.0.1",
+    "news": {
+      "0.0.1": {
+        "en": "initial release",
+        "de": "Erstveröffentlichung",
+        "ru": "Начальная версия",
+        "pt": "lançamento inicial",
+        "nl": "Eerste uitgave",
+        "fr": "Première version",
+        "it": "Versione iniziale",
+        "es": "Versión inicial",
+        "pl": "Pierwsze wydanie",
+        "uk": "Початкова версія",
+        "zh-cn": "首次出版"
+      }
+    },
+    "titleLang": {
+      "en": "icons freepic",
+      "de": "icons freepic",
+      "ru": "icons freepic",
+      "pt": "icons freepic",
+      "nl": "icons freepic",
+      "fr": "icons freepic",
+      "it": "icons freepic",
+      "es": "icons freepic",
+      "pl": "icons freepic",
+      "uk": "icons freepic",
+      "zh-cn": "icons freepic"
+    },
+    "desc": {
+      "en": "Icons from freepic",
+      "de": "Icons von freepic",
+      "ru": "Иконки от freepic",
+      "pt": "Ícones de freepic",
+      "nl": "Icons van freepic",
+      "fr": "Icons de freepic",
+      "it": "Icone di freepic",
+      "es": "Iconos de freepic",
+      "pl": "Icons from freepic (ang.)",
+      "uk": "Ікона від freepic",
+      "zh-cn": "freepic"
+    },
+    "authors": [
+      "jogibear9988 <jochen.kuehner@gmx.de>"
+    ],
+    "keywords": [
+      "icons"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "icon": "icons-freepic.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-freepic/main/admin/icons-freepic.png",
+    "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-freepic/blob/main/README.md",
+    "loglevel": "info",
+    "onlyWWW": true,
+    "noConfig": true,
+    "singleton": true,
+    "type": "visualization-icons",
+    "mode": "none",
+    "adminUI": {
+      "config": "none"
+    }
+  },
+  "objects": [],
+  "instanceObjects": [],
+  "native": {}
+}
