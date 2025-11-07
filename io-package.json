@@ -69,6 +69,7 @@
     "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-freepic/main/admin/icons-freepic.png",
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-freepic/blob/main/README.md",
     "loglevel": "info",
+    "tier": 3,
     "onlyWWW": true,
     "noConfig": true,
     "singleton": true,
