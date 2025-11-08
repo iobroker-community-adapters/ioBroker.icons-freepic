@@ -62,7 +62,10 @@
     "keywords": [
       "icons"
     ],
-    "license": "MIT",
+    "licenseInformation": {
+      "type": "free",
+      "license": "MIT"
+    },
     "platform": "Javascript/Node.js",
     "icon": "icons-freepic.png",
     "enabled": true,
