@@ -31,7 +31,7 @@ You can check other adapters for examples or ask in the developer community. Usi
 ## License
 MIT License
 
-Copyright (c) 2023 jogibear9988 <jochen.kuehner@gmx.de>
+Copyright (c) 2023-2025 jogibear9988 <jochen.kuehner@gmx.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
