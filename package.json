@@ -2,10 +2,10 @@
   "name": "iobroker.icons-freepic",
   "version": "1.0.0",
   "description": "icons-freepic",
-  "author": {
-    "name": "jogibear9988",
-    "email": "jochen.kuehner@gmx.de"
-  },
+  "author": "jogibear9988 <jochen.kuehner@gmx.de>",
+  "contributors": [
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
+  ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.icons-freepic",
   "license": "MIT",
   "keywords": [
