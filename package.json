@@ -20,7 +20,7 @@
     "url": "https://github.com/iobroker-community-adapters/ioBroker.icons-freepic.git"
   },
   "engines": {
-    "node": ">= 16"
+    "node": ">= 20"
   },
   "main": "README.md",
   "dependencies": {},
