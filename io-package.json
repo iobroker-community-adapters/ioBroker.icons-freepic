@@ -71,7 +71,6 @@
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-freepic/blob/main/README.md",
     "loglevel": "info",
     "onlyWWW": true,
-    "noConfig": true,
     "singleton": true,
     "type": "visualization-icons",
     "mode": "none",
